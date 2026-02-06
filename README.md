@@ -1,1 +1,1 @@
-# zmk_keyboard
+zmk-config for charybdis (4x6)
